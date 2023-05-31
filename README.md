@@ -1,1 +1,1 @@
-# 1306200042_giodev2
+# Image Edge Detection Operators
